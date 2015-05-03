@@ -2,6 +2,4 @@
 A graphical version of MineJS
 
 ## Test it ?
-```
-npm start
-```
+Download the demo in the release part !
