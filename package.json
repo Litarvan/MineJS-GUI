@@ -1,0 +1,23 @@
+{
+  "name": "MineJS-GUI",
+  "version": "1.0.0",
+  "description": "A graphical version of MineJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheShark34/MineJS-GUI"
+  },
+  "author": "TheShark34",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheShark34/MineJS-GUI/issues"
+  },
+  "homepage": "https://github.com/TheShark34/MineJS-GUI",
+  "devDependencies": {
+    "electron-prebuilt": "^0.25.2",
+    "js-yaml": "^3.3.0"
+  }
+}

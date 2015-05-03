@@ -1,0 +1,3 @@
+[submodule "MineJS"]
+	path = MineJS
+	url = git@github.com:EpicKiwi/MineJS.git
